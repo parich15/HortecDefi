@@ -9,19 +9,19 @@
       img-height="700"
     >
       <b-carousel-slide
-        caption="Reunió Socis"
+        :caption="$t('Slider.txt1')"
         img-src="/img/carousel2.jpg"
       />
       <b-carousel-slide
-        caption="Creixent junts"
+        :caption="$t('Slider.txt2')"
         img-src="/img/carousel1.jpg"
       />
       <b-carousel-slide
-        caption="Menjar Cooperativa"
+        :caption="$t('Slider.txt3')"
         img-src="/img/carousel3.jpg"
       />
       <b-carousel-slide
-        caption="Pagesos de la terra"
+        :caption="$t('Slider.txt4')"
         img-src="/img/carousel4.jpg"
       />
     </b-carousel>

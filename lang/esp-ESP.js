@@ -167,5 +167,11 @@ export default {
     link4: 'Equipo',
     link6: 'Contacto',
     botiga: 'Tienda On-Line'
+  },
+  Slider: {
+    txt1: 'Reunión Socios',
+    txt2: 'Creciendo juntos',
+    txt3: 'Comida Cooperativa',
+    txt4: 'Agricultores de la tierra'
   }
 }

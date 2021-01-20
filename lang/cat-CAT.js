@@ -168,6 +168,12 @@ export default {
     link4: 'Equip',
     link6: 'Contacte',
     botiga: 'Accés Botiga'
+  },
+  Slider: {
+    txt1: 'Reunió Socis',
+    txt2: 'Creixent junts',
+    txt3: 'Menjar Cooperativa',
+    txt4: 'Pagesos de la terra'
   }
 
 }
